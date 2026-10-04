@@ -1,0 +1,1 @@
+{"name":"Local: PrefixAndSuffix","url":"e:\\FUNDAMENTAL AND DSA\\DSA\\PrefixAndSuffix.cpp","tests":[{"id":1791131199089,"input":"6\n2 4 1 7 3 5","output":""},{"id":1791131696274,"input":"7\n1 2 3 4 5 6 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\FUNDAMENTAL AND DSA\\DSA\\PrefixAndSuffix.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: BruteForce","url":"e:\\FUNDAMENTAL AND DSA\\DSA\\BruteForce.cpp","tests":[{"id":1790679414380,"input":"5\n1 2 3 4 5\n6","output":""},{"id":1790679690340,"input":"1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\FUNDAMENTAL AND DSA\\DSA\\BruteForce.cpp","group":"local","local":true}
