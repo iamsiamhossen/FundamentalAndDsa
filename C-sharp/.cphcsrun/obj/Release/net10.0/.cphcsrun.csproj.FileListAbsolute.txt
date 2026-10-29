@@ -1,0 +1,15 @@
+e:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\obj\Release\net10.0\.cphcsrun.GeneratedMSBuildEditorConfig.editorconfig
+e:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\obj\Release\net10.0\.cphcsrun.AssemblyInfoInputs.cache
+e:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\obj\Release\net10.0\.cphcsrun.AssemblyInfo.cs
+e:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\obj\Release\net10.0\.cphcsrun.csproj.CoreCompileInputs.cache
+e:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\obj\Release\net10.0\.cphcsrun.sourcelink.json
+e:\FUNDAMENTAL AND DSA\C-sharp\helloworld_bin\.cphcsrun.exe
+e:\FUNDAMENTAL AND DSA\C-sharp\helloworld_bin\.cphcsrun.deps.json
+e:\FUNDAMENTAL AND DSA\C-sharp\helloworld_bin\.cphcsrun.runtimeconfig.json
+e:\FUNDAMENTAL AND DSA\C-sharp\helloworld_bin\.cphcsrun.dll
+e:\FUNDAMENTAL AND DSA\C-sharp\helloworld_bin\.cphcsrun.pdb
+e:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\obj\Release\net10.0\.cphcsrun.dll
+e:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\obj\Release\net10.0\refint\.cphcsrun.dll
+e:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\obj\Release\net10.0\.cphcsrun.pdb
+e:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\obj\Release\net10.0\.cphcsrun.genruntimeconfig.cache
+e:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\obj\Release\net10.0\ref\.cphcsrun.dll

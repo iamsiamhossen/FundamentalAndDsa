@@ -1,0 +1,15 @@
+E:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\bin\Debug\net10.0\.cphcsrun.exe
+E:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\bin\Debug\net10.0\.cphcsrun.deps.json
+E:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\bin\Debug\net10.0\.cphcsrun.runtimeconfig.json
+E:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\bin\Debug\net10.0\.cphcsrun.dll
+E:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\bin\Debug\net10.0\.cphcsrun.pdb
+E:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\obj\Debug\net10.0\.cphcsrun.GeneratedMSBuildEditorConfig.editorconfig
+E:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\obj\Debug\net10.0\.cphcsrun.AssemblyInfoInputs.cache
+E:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\obj\Debug\net10.0\.cphcsrun.AssemblyInfo.cs
+E:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\obj\Debug\net10.0\.cphcsrun.csproj.CoreCompileInputs.cache
+E:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\obj\Debug\net10.0\.cphcsrun.sourcelink.json
+E:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\obj\Debug\net10.0\.cphcsrun.dll
+E:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\obj\Debug\net10.0\refint\.cphcsrun.dll
+E:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\obj\Debug\net10.0\.cphcsrun.pdb
+E:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\obj\Debug\net10.0\.cphcsrun.genruntimeconfig.cache
+E:\FUNDAMENTAL AND DSA\C-sharp\.cphcsrun\obj\Debug\net10.0\ref\.cphcsrun.dll
