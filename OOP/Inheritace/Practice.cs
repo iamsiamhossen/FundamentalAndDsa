@@ -1,37 +1,46 @@
-class Animal
+using System;
+public class Person //Base class
 {
-    public string Name{ get; set; }
-    public int Age{ get; set; }
-    public string Email{ get; set; }
+    public string Name { get; set; }
+    public int Age { get; set; }
+    public int Id { get; set; }
+    public string Email { get; set; }
 
-    public void Eat()
+    public Person(string name, int age, int id, string email)
     {
-        Console.WriteLine("Eating...");
+        Name = name;
+        Age = age;
+        Id = id;
+        Email = email;
+    }
+    public void DisplayInfo()
+    {
+        Console.WriteLine($"Name: {Name}, Age: {Age}, Id: {Id}, Email: {Email}");
     }
 }
-
-class Dog : Animal
+public class Student : Person //Derived Or Child class
 {
-    public void Bark()
+
+    public int marks { get; set; }
+
+    public Student(string name, int age, int id, string email, int marks) : base(name, age, id, email) //base keyword is used to call the constructor of the base class
     {
-        Console.WriteLine("I am Argentina Fan");
+        this.marks = marks;
     }
+
+    public void GetMarks()
+    {
+        Console.WriteLine($"Marks: {marks}");
+    }
+
 }
 
-class Program
+public class mainClass
 {
-    static void Main()
+    public static void Main(string[] args)
     {
-        Dog dog = new Dog();
-
-        dog.Name = "Tommy";
-        dog.Age = 5;
-        dog.Email = "barking@gmail.com";
-        Console.WriteLine("Name: " + dog.Name);
-        Console.WriteLine("Age: " + dog.Age);
-        Console.WriteLine("Email: " + dog.Email);
-
-        dog.Eat();
-        dog.Bark();
+        Student student = new Student("Siam Hossen", 24, 530191, "iamsiamhossen@gmail.com", 85);
+        student.DisplayInfo();
+        student.GetMarks();
     }
 }
