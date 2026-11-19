@@ -1,0 +1,30 @@
+
+# Build outputs
+**/bin/
+**/obj/
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.pdb
+
+# IDE
+.vs/
+.vscode/*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+tempCodeRunnerFile.cs
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+secrets.json
+
+# OS files
+Thumbs.db
+.DS_Store
